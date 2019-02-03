@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec0dba5d-ffce-45fc-91b0-a6da51b7e33b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/tech/verenti/support/PayLoad.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/files/Payload.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/files/Resources.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/files/ReusableMethods.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/files/env.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TwitterBot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tech/verenti/test/TwitterBotTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -223,7 +216,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549206302980" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549207719037" />
     <property name="last_opened_file_path" value="C:/paxport/paxport-automation/fab-supplier-tests/pom.xml" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -343,7 +336,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1549204351570</updated>
-      <workItem from="1549204354459" duration="1947000" />
+      <workItem from="1549204354459" duration="3000000" />
     </task>
     <servers />
   </component>
@@ -354,13 +347,18 @@
     <history-entry file="TwitterBot - 2019.02.03 at 14h 41m 24s.xml">
       <configuration name="TwitterBot" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="TwitterBotTest - 2019.02.03 at 15h 05m 09s.xml">
+      <configuration name="TwitterBotTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TwitterBotTest - 2019.02.03 at 15h 06m 16s.xml">
+      <configuration name="TwitterBotTest" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1947000" />
+    <option name="totallyTimeSpent" value="3000000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
