@@ -23,10 +23,10 @@ public class PayLoad {
                                                 "We carried cut hay from the heart of the rick, packed tight as tobacco flake, with grass and wild flowers juicily fossilized within – a whole summer embalmed in our arms.",
                                                 "I was Mr Wet Underpants in eighty-nine. Titled by accident more than design. And I'll tell you stuff for nothing I'll tell you it for free Shawshank Redemption, five quid, HMV",
                                                 "Can't you see? A butterfly stomach round ground. I drank a jar of coffee. And then I took some of these. And I'm totally wired",
-                                                "And in the scout hut debate still rages on, the most dangerous junction in Christendom, and Cathy Staniforth’s milk bank opens soon, yonder the deacon in misguided trousers.",
-                                                "Rehearsals afoot for the Christmas Play, it’s called “Roll The Square Arthur” and mind what you say, it’s a cricketing farce with a thickening plot, Act One, Scene One – Brenda Blethyn gets shot",
+                                                "And in the scout hut debate still rages on, the most dangerous junction in Christendom, and Cathy Staniforth\\u2019s milk bank opens soon, yonder the deacon in misguided trousers.",
+                                                "Rehearsals afoot for the Christmas Play, it\\u2019s called \\u201CRoll The Square Arthur\\u201D and mind what you say, it\\u2019s a cricketing farce with a thickening plot, Act One, Scene One \\u2013 Brenda Blethyn gets shot",
                                                 "Four o-six and I'm wide awake, got an uncontrollable urge to take, a five mile hike around the Ogwen Lake; stretch these restless legs",
-                                                "Milky drink and Sudafed, “that should sort you out”, she said, as I kicked myself clean out of the bed; grazed my restless legs.",
+                                                "Milky drink and Sudafed, \\u201Cthat should sort you out\\u201D, she said, as I kicked myself clean out of the bed; grazed my restless legs.",
                                                 "Checkmate! Dennis Bell of Torquay, too late, with your Nxe3, good game sir, do you want another bout? Well Dennis ain’t replying cos he just signed out, Bad losers on Yahoo Chess, Bad losers on Yahoo Chess, Bad losers on Yahoo Chess."};
     private static Random rand = new Random();
 
