@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: tech.verenti.test.TwitterBotTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 4.281 sec <<< FAILURE!
+createTweet(tech.verenti.test.TwitterBotTest)  Time elapsed: 1.733 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at tech.verenti.test.TwitterBotTest.createTweet(TwitterBotTest.java:43)
+
